@@ -18,7 +18,8 @@ https://raw.githack.com/Herlon18/Trilha-Html-Modulo-3-Dio.me/main/index.html
 Projeto realizado com base nas aulas do curso de formação HTML Dio.me,
 focado na construção da estrutura html com as tags semânticas e acessibilidade,
 realizei a criação de uma logo basica apenas para exemplar e estruturação simples com a base fornecida,
-utilizando as tags <header> <main> <footer> <article> <section> <aside> <nav>
+utilizando as tags <header <main <footer <article <section <aside <nav
+
 Links clicaveis com Âncora e acompanhamento do aside ao rolar a pagina, para uma melhor navegação entre os tópicos.
 
 A baixo segue prints de alguns pontos da pagina
